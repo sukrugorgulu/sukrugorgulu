@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sukrugorgulu
-- 👀 I’m interested in all sorts of coding especially embedded and computer vision based projects.
-- 🌱 I’m currently learning advanced topics in C++
+- 👀 I’m interested in all sorts of coding especially computer vision, machine learning, and embedded projects.
+- 🌱 I’m currently learning advanced topics in C++ and Python.
 - 💞️ I’m looking to collaborate on professional software project development and management.
 - 📫 How to reach me https://www.linkedin.com/in/sukrugorgulu/
 
